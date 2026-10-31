@@ -1,2 +1,7 @@
 *.json
 *.xml
+*.log
+*.txt
+*.json
+*.cfg
+reports/
