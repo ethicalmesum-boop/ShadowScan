@@ -1,0 +1,295 @@
+[theHarvester Results]
+Read proxies.yaml from /etc/theHarvester/proxies.yaml
+*******************************************************************
+*  _   _                                            _             *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __|  _ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* theHarvester 4.11.1                                             *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*                                                                 *
+*******************************************************************
+
+[*] Target: biek.edu.pk 
+
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Failed to process bevigil search for word: 'biek.edu.pk'
+Error Message: 
+[!] Missing API key for bevigil. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+
+[!] Missing API key for Bitbucket. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Failed to process bufferoverun search for word: 'biek.edu.pk'
+Error Message: 
+[!] Missing API key for bufferoverun. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Failed to perform BuiltWith search for word: 'biek.edu.pk'
+A Missing Key Error occurred in builtwith: 
+[!] Missing API key for BuiltWith. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Failed to process brave search for word: 'biek.edu.pk'
+Error Message: 
+[!] Missing API key for Brave Search. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Censys API key is missing or invalid: 
+[!] Missing API key for Censys ID and/or Secret. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing key error occurred in criminalip: 
+[!] Missing API key for criminalip. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred in dehashed: 
+[!] Missing API key for Dehashed. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+
+[!] Missing API key for DNSDumpster. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred in dymo: 
+[!] Missing API key for dymo. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred in fullhunt: 
+[!] Missing API key for fullhunt. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Error initializing SearchGithubCode: 
+[!] Missing API key for Github. 
+A Missing Key error occurred in github-code: 
+[!] Missing API key for Github. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+
+[!] Missing API key for HaveIBeenPwned. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred in Hunter: 
+[!] Missing API key for Hunter. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred in Hunter How: 
+[!] Missing API key for hunterhow. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred in intelx: 
+[!] Missing API key for Intelx. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+[*] Mojeek: No API key found, using default scraping mode.
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred in Netlas: 
+[!] Missing API key for netlas. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Unexpected error occurred in Onyphe module: 
+[!] Missing API key for onyphe. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred in PentestTools search: 
+[!] Missing API key for PentestTools. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred in ProjectDiscovery: 
+[!] Missing API key for ProjectDiscovery. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred in RocketReach: 
+[!] Missing API key for RocketReach. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+
+[!] Missing API key for SecurityScorecard. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred Security Trails: 
+[!] Missing API key for Securitytrail. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred in sherlockeye: 
+[!] Missing API key for sherlockeye. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred in Shodan search: 
+[!] Missing API key for Shodan. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred in Tomba: 
+[!] Missing API key for Tomba Key and/or Secret. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred in venacus search: 
+[!] Missing API key for Venacus. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred in virustotal search: 
+[!] Missing API key for virustotal. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred in whoisxml search: 
+[!] Missing API key for whoisxml. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred in zoomeye: 
+[!] Missing API key for zoomeye. 
+[*] Searching Baidu. 
+	Searching results.
+[*] Searching Certspotter. 
+Chaos API error: get access token here https://cloud.projectdiscovery.io
+[*] Searching Chaos. 
+[*] Searching CRTsh. 
+No response from Fofa API for: biek.edu.pk
+[*] Searching Fofa. 
+[*] Searching Duckduckgo. 
+[*] Searching Gitlab. 
+[*] Searching Hackertarget. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+[*] Searching Hudsonrock. 
+Error in Leak-Lookup search: Cannot connect to host leak-lookup.com:443 ssl:default [Timeout while contacting DNS servers]
+[*] Searching Leaklookup. 
+[*] Searching Mojeek. 
+LeakIX API requires authentication: "Incorrect API Key"
+[*] Searching Otx. 
+[*] Searching Rapiddns. 
+No response from Robtex API for: https://freeapi.robtex.com/pdns/forward/biek.edu.pk
+[*] Searching Robtex. 
+[*] Searching Leakix. 
+[*] Searching ShodanInternetDB. 
+[*] Searching Subdomaincenter. 
+[*] Searching Subdomainfinderc99. 
+An exception has occurred in THC: Cannot connect to host ip.thc.org:443 ssl:default [Timeout while contacting DNS servers]
+[*] Searching Thc. 
+No response from ThreatCrowd API for: biek.edu.pk
+[*] Searching Threatcrowd. 
+
+ An error occurred while processing a "work item": TypeError: string indices must be integers, not 'str'
+
+[*] Windvane API key not found. Using limited unauthenticated access.
+[*] Searching Windvane. 
+[*] Searching Yahoo. 
+[*] Searching Commoncrawl. 
+[*] Searching Waybackarchive. 
+
+[*] No LinkedIn users found.
+
+
+
+[*] LinkedIn Links found: 0
+---------------------
+
+[*] IPs found: 1
+-------------------
+84.46.240.124
+
+[*] Emails found: 1
+----------------------
+info@biek.edu.pk
+
+[*] No people found.
+
+[*] Hosts found: 35
+---------------------
+*.biek.edu.pk
+admin.biek.edu.pk:202.125.134.162
+adminit.biek.edu.pk:84.46.240.124
+adminu.biek.edu.pk:84.46.240.124
+admitcard.biek.edu.pk:84.46.240.124
+apis.biek.edu.pk:84.46.240.124
+dams.biek.edu.pk:43.245.129.97
+emarking.biek.edu.pk:43.245.129.97
+institute.biek.edu.pk
+institute.biek.edu.pk:84.46.240.124
+instu.biek.edu.pk:84.46.240.124
+isld.biek.edu.pk:43.245.129.100
+isld2.biek.edu.pk:43.245.129.100
+isr.biek.edu.pk:84.46.240.124
+mail.biek.edu.pk:84.46.240.124
+ns1.biek.edu.pk:84.46.240.124
+ns2.biek.edu.pk:84.46.240.124
+olb.biek.edu.pk:84.46.240.124
+olbd.biek.edu.pk:167.86.125.245
+online.biek.edu.pk
+online.biek.edu.pk:84.46.240.124
+onlineu.biek.edu.pk:84.46.240.124
+pg1uat.biek.edu.pk:202.125.134.162
+pocenv10.biek.edu.pk:84.46.240.124
+portal.biek.edu.pk
+portal.biek.edu.pk:84.46.240.124
+pp1uat.biek.edu.pk:202.125.134.162
+ps1uat.biek.edu.pk:84.46.240.124
+psp1u.biek.edu.pk:84.46.240.124
+rptu.biek.edu.pk:84.46.240.124
+srv.biek.edu.pk
+srv.biek.edu.pk:84.46.240.124
+store.biek.edu.pk:84.46.240.124
+teams.biek.edu.pk:84.46.240.124
+xsp.biek.edu.pk:84.46.240.124
+
+[*] Performing SecurityScorecard scan...
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+An exception has occurred in SecurityScorecard scanning: 
+[!] Missing API key for SecurityScorecard. 
+
+[*] Performing BuiltWith scan...
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+
+[!] Missing API key for BuiltWith. 
+
+
+[Dmitry OSINT Results]
+Deepmagic Information Gathering Tool
+"There be some deep magic going on"
+
+HostIP:84.46.240.124
+HostName:biek.edu.pk
+
+Gathered Inet-whois information for 84.46.240.124
+---------------------------------
+
+
+inetnum:        84.46.240.0 - 84.46.255.255
+netname:        LRTC_INETNUM_RENT
+country:        LT
+admin-c:        TAS87-RIPE
+tech-c:         TAS87-RIPE
+abuse-c:        AR834
+remarks:        Abuse contact: abuse@contabo.de
+status:         SUB-ALLOCATED PA
+org:            ORG-SRaT1-RIPE
+descr:          IPXO
+mnt-by:         LRTC-MNT
+mnt-by:         netutils-mnt
+created:        2021-12-03T07:52:37Z
+last-modified:  2025-02-12T15:29:21Z
+source:         RIPE
+
+organisation:   ORG-SRaT1-RIPE
+org-name:       SC "Lithuanian Radio and TV Center"
+country:        LT
+reg-nr:         120505210
+org-type:       LIR
+address:        Sausio 13-osios g. 10
+address:        04347
+address:        Vilnius
+address:        LITHUANIA
+phone:          +37052040300
+fax-no:         +37052040325
+abuse-c:        AR16053-RIPE
+mnt-ref:        LRTC-MNT
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         LRTC-MNT
+created:        2004-04-17T11:37:22Z
+last-modified:  2026-05-13T07:41:52Z
+source:         RIPE # Filtered
+
+person:         Tinklu administravimo skyrius
+address:        Sausio 13-osios g. 10, 04347 Vilnius
+phone:          +3705204 03 00
+nic-hdl:        TAS87-RIPE
+mnt-by:         MNT-TAS
+created:        2014-12-03T09:45:22Z
+last-modified:  2014-12-03T09:45:22Z
+source:         RIPE # Filtered
+
+% Information related to '84.46.240.0/20AS51167'
+
+route:          84.46.240.0/20
+origin:         AS51167
+mnt-by:         netutils-mnt
+created:        2022-11-10T15:32:53Z
+last-modified:  2025-02-12T14:06:51Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.124.1 (BUSA)
+
+
+
+All scans completed, exiting
